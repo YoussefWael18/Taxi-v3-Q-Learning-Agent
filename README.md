@@ -17,7 +17,7 @@ This project implements a **Q-Learning algorithm** to train an agent in the Taxi
 - **Visual Testing**: Watch the trained agent perform in real-time
 - **Configurable Hyperparameters**: Easy to adjust learning parameters
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
 ```bash
