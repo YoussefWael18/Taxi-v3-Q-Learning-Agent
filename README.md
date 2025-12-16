@@ -104,9 +104,9 @@ The epsilon-greedy strategy ensures the agent explores initially and gradually e
 You can modify the hyperparameters at the top of `Taxi_RL.py`:
 
 ```python
-alpha = 0.9          # Learning rate
-gamma = 0.97         # Discount factor
-epsilon = 1          # Initial exploration rate
+alpha = 0.9          
+gamma = 0.97        
+epsilon = 1         
 epsilon_decay = 0.9995
 min_epsilon = 0.01
 num_episodes = 10000
