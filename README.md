@@ -42,7 +42,7 @@ The script will:
 2. Display 5 test episodes with visual rendering
 3. Show the agent's performance
 
-## ⚙️ Hyperparameters
+##  Hyperparameters
 
 | Parameter | Value | Description |
 |-----------|-------|-------------|
